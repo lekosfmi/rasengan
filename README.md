@@ -1,5 +1,5 @@
 # Rasengan
-Animation developed to imitate Naruto's (rasengan)[http://naruto.wikia.com/wiki/Rasengan]; plus, I added some of my own originality into the work.
+Animation developed to imitate Naruto's [rasengan](http://naruto.wikia.com/wiki/Rasengan). I added some of my own animation as well for originality purposes. :)
 
 ## Technology Stack
 - [ThreeJS](https://threejs.org/)
